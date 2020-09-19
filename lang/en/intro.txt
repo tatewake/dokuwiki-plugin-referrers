@@ -1,0 +1,19 @@
+====== Referrers for DokuWiki ======
+
+===== About =====
+
+This plugin logs [[wp>HTTP_referer|HTTP Referrers]] for your site, so you can see where your traffic comes from.
+
+Set the options for this plugin via the **Configuration Settings** menu from the DokuWiki admin menu. (It will be near the bottom of the page.)
+
+===== Setup =====
+
+The log will be located at the page [[:wiki:referrers|:wiki:referrers]], so you will need to create that page for this plugin to work.
+
+It is also recommended that you use DokuWiki's **Access Control List Management** feature (available from the **Admin** page) to make '':wiki:referrers'' not publicly readable so search engines won't index it.
+
+===== Support =====
+
+For further support or discussion, please see the official plugin page [[doku>plugin:referrers|here]].
+
+If you find this plugin useful, please consider supporting the project via [[http://tjgrant.com/wiki/donate|Donations]] or [[https://github.com/sponsors/tatewake|Sponsorships]]; thank you!
