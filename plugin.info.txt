@@ -1,0 +1,7 @@
+base        referrers
+author      Terence J. Grant
+email       tjgrant@tatewake.com
+date        2020-09-19
+name        Referrers for DokuWiki 1.0.0
+desc        Enable referrer logging for your site on the page ":wiki:referrers".
+url         https://www.dokuwiki.org/plugin:referrers
